@@ -1,4 +1,4 @@
-from textSummarizer.pipeline.stage_01_data_ingestin import DataIngestionTrainingPipeline
+from textSummarizer.pipeline.stage_01_data_ingesting import DataIngestionTrainingPipeline
 from textSummarizer.logging import logger
 
 
