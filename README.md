@@ -1,1 +1,11 @@
 # text-summarizer
+
+## Workflow
+1. Update config.yaml
+2. Update params.yaml
+3. Update src/textSummarizer/entity
+4. Update configuration manager in src/config
+5. Update src/components
+6. Update src/pipeline
+7. Update main.py
+8. Update app.py
